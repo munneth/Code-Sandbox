@@ -1,2 +1,2 @@
 # Code-Sandbox
-Useful reusable function I have made/used in past projects
+Useful reusable functions I have made/used in past projects
